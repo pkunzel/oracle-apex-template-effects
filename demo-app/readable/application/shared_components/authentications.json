@@ -1,0 +1,20 @@
+[
+  {
+    "id":"42418382613162315"
+   ,"Identification":{
+      "Name":"Oracle APEX Accounts"
+    }
+   ,"Settings":{
+      "Type":"Oracle APEX Accounts"
+    }
+   ,"Session Not Valid":{
+      "Redirect to":"Login Page"
+    }
+   ,"Login Processing":{
+      "Switch in Session":false
+    }
+   ,"Real Application Security":{
+      "RAS Mode":"Disabled"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id":"42711610210161924"
+   ,"Identification":{
+      "Name":"Administration Rights"
+    }
+   ,"Authorization Scheme":{
+      "Type":"PL\/SQL Function Returning Boolean"
+    }
+   ,"Settings":{
+      "PL\/SQL Function Body":"return true;"
+    }
+   ,"Server Cache":{
+      "Evaluation Point":"Once per Page View"
+    }
+   ,"Error":{
+      "Error Message":"Insufficient privileges, user is not an Administrator"
+    }
+  }
+]
