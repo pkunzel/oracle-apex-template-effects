@@ -46,9 +46,9 @@ wwv_imp_workspace.create_flow(
 ,p_substitution_string_01=>'APP_NAME'
 ,p_substitution_value_01=>'APEX Template Effects'
 ,p_last_updated_by=>'KUNZEL.PAULO'
-,p_last_upd_yyyymmddhh24miss=>'20240430151055'
+,p_last_upd_yyyymmddhh24miss=>'20240509193714'
 ,p_file_prefix => nvl(wwv_flow_application_install.get_static_app_file_prefix,'')
-,p_files_version=>84
+,p_files_version=>110
 ,p_print_server_type=>'NATIVE'
 ,p_file_storage=>'DB'
 ,p_is_pwa=>'Y'

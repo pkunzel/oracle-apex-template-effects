@@ -21,6 +21,22 @@
           }
         }
       }
+     ,{
+        "id":"44629831397908478"
+       ,"Identification":{
+          "Name":"Master Detail - Side"
+         ,"Page Number":"5"
+        }
+       ,"Execution":{
+          "Sequence":10
+        }
+       ,"Link":{
+          "Target":{
+            "url":"f?p=\u0026APP_ID.:5:\u0026APP_SESSION.::\u0026DEBUG.:::"
+           ,"Page":"5"
+          }
+        }
+      }
     ]
   }
 ]
